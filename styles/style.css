@@ -1,0 +1,16 @@
+#container{
+    margin: auto;
+    width: 60%;
+}
+
+.normal{
+    fill: whitesmoke;
+}
+
+.fast{
+    fill: orange;
+}
+
+.very-fast{
+    fill: black;
+}
